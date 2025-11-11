@@ -1,0 +1,16 @@
+{
+  "scraper": {
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
+    "timeout": 25,
+    "max_pages": 3,
+    "parallel_requests": 4
+  },
+  "output": {
+    "default_format": "json",
+    "output_dir": "data"
+  },
+  "delta_mode": {
+    "enabled": false,
+    "previous_file": "data/sample_output.json"
+  }
+}
