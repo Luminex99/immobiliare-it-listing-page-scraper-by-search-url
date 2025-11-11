@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Appartamento in vendita a Roma 70",
+    "description": "Luminoso trilocale di 85mq con balcone e vista panoramica.",
+    "price": "€230,000",
+    "location": "Roma 70, Roma, Italia",
+    "surface": "85 m²",
+    "rooms": 3,
+    "bathrooms": 2,
+    "photos": ["https://www.immobiliare.it/images/listing/12345/photo1.jpg"],
+    "energy_class": "Classe D",
+    "construction_year": 2008,
+    "agency_name": "Studio Casa Roma Sud",
+    "contact_info": "info@studiocasaromasud.it",
+    "transport": "Vicino alla fermata metro Laurentina",
+    "apify_monitoring_status": "new"
+  }
+]
