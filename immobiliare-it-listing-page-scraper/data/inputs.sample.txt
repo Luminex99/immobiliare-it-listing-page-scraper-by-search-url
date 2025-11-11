@@ -1,0 +1,3 @@
+# Sample Immobiliare.it search URLs, one per line.
+# Replace with your own filtered search result pages.
+https://www.immobiliare.it/vendita-case/roma/?criterio=rilevanza
